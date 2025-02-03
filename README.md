@@ -1,4 +1,4 @@
-# ImageSecrets
+# ImageSecrets 🔐
 A Python script for embedding and extracting secret messages and files inside images. This script offers multiple features for hiding and revealing messages and files within image files, making it useful for steganography and data concealment.
 
 # Features
@@ -24,12 +24,12 @@ cd imagesecrets
 ```
 # 2. Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 # 3. Run The Script
 ```bash
-python image_secrets.py
+python3 ImgSecrets.py
 ```
-
+# Enjoy 🥳
 
 
